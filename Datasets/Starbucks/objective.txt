@@ -1,0 +1,4 @@
+Objectives for Starbucks dataset:
+    1.) Train a Markov Chain to generate new Starbucks drink or food items
+    2.) Design an easy-to-interpret visualization for the nutrition of each item
+    3.) Compare Starbucks menu items to McDonald’s menu items in terms of nutrition
